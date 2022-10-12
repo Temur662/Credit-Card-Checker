@@ -193,4 +193,3 @@ const outputText = () => {
   sum = 0;
   
 }
-
