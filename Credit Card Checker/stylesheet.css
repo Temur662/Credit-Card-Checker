@@ -1,0 +1,46 @@
+* {
+    font-family: 'M PLUS Rounded 1c', Avenir Next, Helvetica, sans-serif;
+  }
+title{
+    color:white;
+}
+body {
+    background: #8990ec;
+  }  
+.wrapper {
+    height: 525px;
+    width: 500px;
+    color: white;
+    background: #272639;
+    border-radius: 1rem;
+    padding: 1.2rem;
+    margin: 100px auto;
+  }
+#main{
+    margin-top: 10%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+
+}
+
+#input{
+    text-align:  center;
+    margin-top: 2%;
+    
+}
+
+#output{
+  margin-top:2%;
+  margin-left: 15%;
+  float: center;
+  border: 2px;
+  height: 200px;
+  width: 355px;
+  background-color:antiquewhite;
+  color: black;
+  text-align: center;
+  font-family: 'M PLUS Rounded 1c', Avenir Next, Helvetica, sans-serif;
+}
+
